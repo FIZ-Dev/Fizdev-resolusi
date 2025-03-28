@@ -6,3 +6,5 @@ RESOLUSI TAHUN INI
 - Mulai Berinvestasi secara fisik dan finansial untuk jangka panjang dan masa depan
 - Lebih banyak meluangkan waktu untuk keluarga
 - memperbaiki diri
+- membuat homelab server untuk development dan eksperimen
+- membuat chatapp sederhana untuk symbian  
