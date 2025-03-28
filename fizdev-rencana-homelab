@@ -7,13 +7,13 @@ RENCANA PERAKITAN HOMELAB UNTUK DEVELOMENT PROJEK & EKSPERIMEN
 {Paling hemat & efisien: Intel Core i5-6500}
 {Performa lebih tinggi untuk VM & multitasking: Intel Core i7-6700}
 {Untuk server yang butuh ECC RAM: Intel Xeon E3-1230 v5}
-
 - Motherboard
 - RAM
-  * Ram minimal 16GB dan Max 32GB
+  * Ram minimal 16GB dan Max 32GB 
 - Storage
   * HDD {For Storage Server} 1tb x2 & SSD {For OperatingSystem} 256GB 
 - GPU
+  * NVIDIA GT 710
 - Cpucooler
 # Perangkat Lain {Lihat kebutuhan}
   * STB ZTE installed debian or Fedora server
