@@ -7,6 +7,7 @@ RENCANA PERAKITAN HOMELAB UNTUK DEVELOMENT PROJEK & EKSPERIMEN
   * Ram minimal 16GB dan Max 32GB
 - Storage
   * HDD {For Storage Server} 1tb x2 & SSD {For OperatingSystem} 256GB 
-- GPU 
+- GPU
 - Cpucooler
 # Perangkat Lain {Lihat kebutuhan}
+  * STB ZTE installed debian or Fedora server
