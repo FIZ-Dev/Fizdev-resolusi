@@ -2,7 +2,11 @@ RENCANA PERAKITAN HOMELAB UNTUK DEVELOMENT PROJEK & EKSPERIMEN
 # SPESIFIKASI {Spesifikasi awal kedepannya dapat di upgrade}
 - Processor
   * Processor Intel Gen 5/6 dengan 3 - 4Ghz
-  * Processor AMD
+    ^ Intel Core i5-5675C & Intel Core i7-5775C 
+    ^ Intel Core i5-6500 & Intel Xeon E3-1230 v5
+{Paling hemat & efisien: Intel Core i5-6500}
+{Performa lebih tinggi untuk VM & multitasking: Intel Core i7-6700}
+{Untuk server yang butuh ECC RAM: Intel Xeon E3-1230 v5}
 - Motherboard
 - RAM
   * Ram minimal 16GB dan Max 32GB 
